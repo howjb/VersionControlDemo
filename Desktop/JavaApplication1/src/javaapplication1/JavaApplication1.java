@@ -1,15 +1,12 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package javaapplication1;
 
 /**
  *
- * @author jawadbarish
+ * @author jawadbarish, Oct 16, 2024,
  */
 public class JavaApplication1 {
   public static void main(String[] args) {
-    System.out.println("Hello Java II!");
+    System.out.println("Hello Data Stucture");
   }
 }
